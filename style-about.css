@@ -1,0 +1,96 @@
+* {
+    background-color: beige;
+}
+#head1{
+    text-align: center;
+margin-top: 40px;
+font-size: 35px;
+line-height: 60px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#head2{
+    text-align: center;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 40px;
+}
+#para1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    line-height: 40px;
+    margin-top: 50px;
+    padding: 20px;
+}
+#head3{
+      font-size: 35px;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+#para2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    text-align: left;
+    line-height: 40px;
+}
+#head4{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+
+
+
+}
+img{
+    float: right;
+    width: 350px;
+    height: 300px;
+    margin-right: 50px;
+}
+#para3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    line-height: 45px;
+    
+   
+   width: 800px;
+   height: 330px;
+}
+#para4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    line-height: 44px;
+
+
+
+
+
+}
+#contact{
+
+text-align: center;
+padding: 20px;
+margin: 10px;
+
+font-size: 25px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.footer{
+    height: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: medium;
+background-color: black;
+color: white;
+
+margin:  0px 0px 0px;
+padding: 0px;
+text-align: center;
+
+ }
+#papa{
+margin-right: 250px;
+margin-bottom: 100px;
+width: 300px;
+}

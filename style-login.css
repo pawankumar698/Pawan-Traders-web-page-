@@ -1,0 +1,61 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+     h1{
+        border: solid, black, 5px;
+        border-radius: 10px;
+        padding: 10px;
+        
+     }
+     h2{
+        
+        font: bolder;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+     }
+     .loginpage{
+        background-color: beige;
+        width: 400px;font-size: 25px;
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+         justify-content: center;
+         align-items: center;
+         box-shadow: 1px 1px 2px 5px  rgb(48, 45, 39);
+     }
+     
+     #a2{
+        padding: 10px;
+        
+     }
+     #a3{
+        width: 300px;
+        height: 30px;
+     }
+       #c1{
+        width: 300px;
+        height: 20px;
+       }
+
+
+       #c2{
+        width: 300px;
+        height: 20px;
+       }
+  
+  .footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+    background-color: black;
+    color: white;
+   
+    margin:  0px 0px 0px;
+    padding: 0px;
+    text-align: center;
+    
+}
